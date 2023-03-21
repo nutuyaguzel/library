@@ -1,0 +1,11 @@
+body{
+    background: url("../assets/bg.jpeg") no-repeat center center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.headerBgDark{
+    background-color: black !important;
+}
+.headerBgLight{
+    background-color: blueviolet;
+}

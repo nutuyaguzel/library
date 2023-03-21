@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "zAmaNIN FARkındA",
+      "author": "şule gürbüz",
+      "publisher": "iletişim",
+      "price": 70,
+      "isbn": "9789750509292",
+      "categoryId": "2"
+    },
+    {
+      "id": "2",
+      "title": "puslu kıtalar atlası",
+      "author": "ihsan oktay anar",
+      "publisher": "iletişim",
+      "price": 50,
+      "isbn": "9789750509243",
+      "categoryId": "3"
+    },
+    {
+      "id": "1678389736018",
+      "title": "fghfg",
+      "author": "fghf",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "categoryId": "2"
+    },
+    {
+      "id": "1678911513557",
+      "title": "deneme",
+      "author": "deneme",
+      "publisher": "deneme",
+      "price": "",
+      "isbn": "",
+      "categoryId": "1"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "roman"
+    },
+    {
+      "id": "2",
+      "name": "hikaye"
+    },
+    {
+      "id": "3",
+      "name": "bilim kurgu"
+    }
+  ]
+}
